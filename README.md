@@ -23,7 +23,9 @@ PageDown | controller.L2
 BrowserBack | controller.L1
 BrowserForward | controller.R1
 
-I used this as reference material for the byte-mappings of the controller input/output reports
+
+### reference materials:
+> I used this as reference material for the byte-mappings of the controller input/output reports \
 > [github.com/nondebug/dualsense](https://github.com/nondebug/dualsense)
-a copy of the html code is [here](./inspire/README.md) which was a huge help.\
-specifically, because I was able to copy some important parts of the JS code and use it with only small modifications to the syntax.
+> a copy of the html code is [here](./inspire/README.md) which was a huge help.\
+> specifically, because I was able to copy some important parts of the JS code and use it with only small modifications to the syntax.
