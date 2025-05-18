@@ -1,0 +1,12 @@
+[package]
+name = "win_ps5_controlls"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ctrlc = "3.4.7"
+dualsense-rs = "0.6.0"
+hidapi = "2.6.3"
+rdev = "0.5.3"
+simulate = "0.3.0"
+vigem-client = "0.1.4"
