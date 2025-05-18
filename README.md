@@ -29,3 +29,6 @@ BrowserForward | controller.R1
 > [github.com/nondebug/dualsense](https://github.com/nondebug/dualsense)
 > a copy of the html code is [here](./inspire/README.md) which was a huge help.\
 > specifically, because I was able to copy some important parts of the JS code and use it with only small modifications to the syntax.
+
+This is my first project with the `rust` programming language, so do not expect my code to be perfect. \
+And yes, I know I used a thread that is useless because I could just have put the code into the main functions loop.
