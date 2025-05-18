@@ -1,8 +1,9 @@
 
 
-> This program allows you to use a playstation5 dualsense controller to move your mouse and interact with your pc.
->#### compatibility:
->> It work both on bluetooth and usb mode.
+This program allows you to use a playstation5 dualsense controller to move your mouse and interact with your pc.
+
+#### compatibility:
+It work both on bluetooth and usb mode.
 
 I used this as reference material for the byte-mappings of the controller input/output reports
 > [github.com/nondebug/dualsense](https://github.com/nondebug/dualsense)
